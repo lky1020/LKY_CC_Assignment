@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SyasyaDb-Web.config Connection String" description="SyasyaDb Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:lky-cc-assignmentdbserver.database.windows.net,1433;Initial Catalog=SyasyaDb;Persist Security Info=False;User ID=lky1020;Password=lky_1020;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\Desktop\\LKY_CC_Assignment\\LKY_CC_Assignment\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SyasyaDb']/@connectionString" />
+  </parameter>
+</parameters>
