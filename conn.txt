@@ -1,0 +1,1 @@
+Server=tcp:lky-cc-assignmentdbserver.database.windows.net,1433;Initial Catalog=SyasyaDb;Persist Security Info=False;User ID=lky1020;Password=lky_1020;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
